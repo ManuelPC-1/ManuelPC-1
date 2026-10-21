@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Manuel%20Portela&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
