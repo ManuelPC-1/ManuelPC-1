@@ -17,6 +17,14 @@
 
 <p align="center">
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/activity-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/activity-light.svg" />
+    <img alt="" src="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/activity-dark.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/github-snake.svg" />
     <img alt="" src="https://raw.githubusercontent.com/ManuelPC-1/ManuelPC-1/output/github-snake.svg" />
