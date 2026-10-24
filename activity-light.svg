@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="210" viewBox="0 0 840 210" role="img" aria-label="Contribution activity over the last year">
+<defs>
+<linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+<stop offset="0" stop-color="#8250df"/>
+<stop offset="1" stop-color="#0969da"/>
+</linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="839" height="209" rx="12" fill="#ffffff" stroke="#d0d7de"/>
+<text x="28" y="50" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2328">470</text>
+<text x="28" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#656d76">contributions in the last year</text>
+<text x="328" y="50" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2328">164</text>
+<text x="328" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#656d76">active days</text>
+<text x="548" y="50" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" fill="#1f2328">18</text>
+<text x="548" y="70" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#656d76">best day</text>
+<rect x="28.00" y="123.45" width="10.95" height="54.55" rx="2.5" fill="url(#bar)"/>
+<rect x="42.79" y="141.64" width="10.95" height="36.36" rx="2.5" fill="url(#bar)"/>
+<rect x="57.58" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<text x="57.58" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Nov</text>
+<rect x="72.38" y="170.73" width="10.95" height="7.27" rx="2.5" fill="url(#bar)"/>
+<rect x="87.17" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<rect x="101.96" y="176.00" width="10.95" height="2.00" rx="2.5" fill="#eaeef2"/>
+<rect x="116.75" y="119.82" width="10.95" height="58.18" rx="2.5" fill="url(#bar)"/>
+<rect x="131.55" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<text x="131.55" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Dec</text>
+<rect x="146.34" y="134.36" width="10.95" height="43.64" rx="2.5" fill="url(#bar)"/>
+<rect x="161.13" y="163.45" width="10.95" height="14.55" rx="2.5" fill="url(#bar)"/>
+<rect x="175.92" y="152.55" width="10.95" height="25.45" rx="2.5" fill="url(#bar)"/>
+<rect x="190.72" y="148.91" width="10.95" height="29.09" rx="2.5" fill="url(#bar)"/>
+<text x="190.72" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Jan</text>
+<rect x="205.51" y="167.09" width="10.95" height="10.91" rx="2.5" fill="url(#bar)"/>
+<rect x="220.30" y="123.45" width="10.95" height="54.55" rx="2.5" fill="url(#bar)"/>
+<rect x="235.09" y="170.73" width="10.95" height="7.27" rx="2.5" fill="url(#bar)"/>
+<rect x="249.89" y="156.18" width="10.95" height="21.82" rx="2.5" fill="url(#bar)"/>
+<text x="249.89" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Feb</text>
+<rect x="264.68" y="123.45" width="10.95" height="54.55" rx="2.5" fill="url(#bar)"/>
+<rect x="279.47" y="176.00" width="10.95" height="2.00" rx="2.5" fill="#eaeef2"/>
+<rect x="294.26" y="176.00" width="10.95" height="2.00" rx="2.5" fill="#eaeef2"/>
+<rect x="309.06" y="156.18" width="10.95" height="21.82" rx="2.5" fill="url(#bar)"/>
+<text x="309.06" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Mar</text>
+<rect x="323.85" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<rect x="338.64" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<rect x="353.43" y="141.64" width="10.95" height="36.36" rx="2.5" fill="url(#bar)"/>
+<rect x="368.23" y="163.45" width="10.95" height="14.55" rx="2.5" fill="url(#bar)"/>
+<rect x="383.02" y="138.00" width="10.95" height="40.00" rx="2.5" fill="url(#bar)"/>
+<text x="383.02" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Apr</text>
+<rect x="397.81" y="141.64" width="10.95" height="36.36" rx="2.5" fill="url(#bar)"/>
+<rect x="412.60" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<rect x="427.40" y="148.91" width="10.95" height="29.09" rx="2.5" fill="url(#bar)"/>
+<rect x="442.19" y="134.36" width="10.95" height="43.64" rx="2.5" fill="url(#bar)"/>
+<text x="442.19" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">May</text>
+<rect x="456.98" y="134.36" width="10.95" height="43.64" rx="2.5" fill="url(#bar)"/>
+<rect x="471.77" y="141.64" width="10.95" height="36.36" rx="2.5" fill="url(#bar)"/>
+<rect x="486.57" y="156.18" width="10.95" height="21.82" rx="2.5" fill="url(#bar)"/>
+<rect x="501.36" y="167.09" width="10.95" height="10.91" rx="2.5" fill="url(#bar)"/>
+<rect x="516.15" y="174.00" width="10.95" height="4.00" rx="2.5" fill="url(#bar)"/>
+<text x="516.15" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Jun</text>
+<rect x="530.94" y="159.82" width="10.95" height="18.18" rx="2.5" fill="url(#bar)"/>
+<rect x="545.74" y="134.36" width="10.95" height="43.64" rx="2.5" fill="url(#bar)"/>
+<rect x="560.53" y="174.00" width="10.95" height="4.00" rx="2.5" fill="url(#bar)"/>
+<rect x="575.32" y="167.09" width="10.95" height="10.91" rx="2.5" fill="url(#bar)"/>
+<text x="575.32" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Jul</text>
+<rect x="590.11" y="167.09" width="10.95" height="10.91" rx="2.5" fill="url(#bar)"/>
+<rect x="604.91" y="116.18" width="10.95" height="61.82" rx="2.5" fill="url(#bar)"/>
+<rect x="619.70" y="148.91" width="10.95" height="29.09" rx="2.5" fill="url(#bar)"/>
+<rect x="634.49" y="174.00" width="10.95" height="4.00" rx="2.5" fill="url(#bar)"/>
+<text x="634.49" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Aug</text>
+<rect x="649.28" y="176.00" width="10.95" height="2.00" rx="2.5" fill="#eaeef2"/>
+<rect x="664.08" y="116.18" width="10.95" height="61.82" rx="2.5" fill="url(#bar)"/>
+<rect x="678.87" y="130.73" width="10.95" height="47.27" rx="2.5" fill="url(#bar)"/>
+<rect x="693.66" y="127.09" width="10.95" height="50.91" rx="2.5" fill="url(#bar)"/>
+<rect x="708.45" y="152.55" width="10.95" height="25.45" rx="2.5" fill="url(#bar)"/>
+<text x="708.45" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Sep</text>
+<rect x="723.25" y="127.09" width="10.95" height="50.91" rx="2.5" fill="url(#bar)"/>
+<rect x="738.04" y="127.09" width="10.95" height="50.91" rx="2.5" fill="url(#bar)"/>
+<rect x="752.83" y="156.18" width="10.95" height="21.82" rx="2.5" fill="url(#bar)"/>
+<rect x="767.62" y="98.00" width="10.95" height="80.00" rx="2.5" fill="url(#bar)"/>
+<text x="767.62" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" fill="#656d76">Oct</text>
+<rect x="782.42" y="159.82" width="10.95" height="18.18" rx="2.5" fill="url(#bar)"/>
+<rect x="797.21" y="98.00" width="10.95" height="80.00" rx="2.5" fill="url(#bar)"/>
+</svg>
